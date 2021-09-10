@@ -32,6 +32,7 @@ h3{
 }
 .middle-container{
   margin: 100px 0 ;
+  background-color: #E4F9F5;
 
 
 }
@@ -47,9 +48,9 @@ p{
   line-height: 2;
 }
 hr{
-  border: dotted #EAF6F6 6px;
+  border: dotted blue 6px;
   border-bottom: none;
-  width: 5%;
+  width: 7%;
   margin: 100px auto;
 }
 .bottom-container
@@ -88,7 +89,7 @@ hr{
   margin-left: 30px;
 }
 .intro{
-  width: 20%;
+  width: 30%;
   margin: auto;
 }
 .contact-message{
@@ -123,7 +124,7 @@ hr{
   text-decoration: none;
 }
 a{
-  color: #11999E;
+  color: red;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -135,4 +136,7 @@ a:hover{
   color: #EAF6F6;
   font-size: 0.80rem;
   padding:  20px 0px;
+}
+.myself{
+  border: 5px;
 }
